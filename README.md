@@ -156,3 +156,5 @@ git pull
 - Apply semantic HTML
 - Connect CSS and JavaScript
 - Test and debug the webpage 
+
+
